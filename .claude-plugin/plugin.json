@@ -1,0 +1,8 @@
+{
+  "name": "static-analysis",
+  "version": "1.4.3",
+  "description": "CodeQL static-analysis skill and database-build workflow for security vulnerability detection",
+  "author": {
+    "name": "jojocorse2b"
+  }
+}
